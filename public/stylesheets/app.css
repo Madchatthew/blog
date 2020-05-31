@@ -1,0 +1,37 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7em;
+}
+
+#postcontent {
+    margin-top: 7em;
+    margin-bottom: 7em;
+}
+
+#postButton {
+    margin-top: 1em;
+}
+
+.divider {
+    background-color: black;
+}
+
+#dateCreated {
+    margin-top: 1em;
+}
+
+#image {
+    margin-top: 1em;
+}
+
+#postBody {
+    margin-top: 1em;
+}
+
+#postTitle a {
+    color: black;
+    text-align: center;
+}
